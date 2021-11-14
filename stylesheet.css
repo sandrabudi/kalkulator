@@ -1,5 +1,5 @@
 body {
-    background-color: #6e7479;
+    background-color: rgb(241, 86, 112);
 }
 
 .container {
@@ -65,7 +65,7 @@ input[type='button'] {
     color: #fafafa;
     cursor: pointer;
     outline: none;
-    background: #2d2d2d;
+    background: rgb(241, 86, 112);
     border-radius: 10%;
     -webkit-border-radius: 10%;
     -moz-border-radius: 10%;
@@ -78,7 +78,7 @@ input[type='button'][value='0'] {
 }
 
 input[type='button'][value='='] {
-    background: #2d2d2d;
+    background: rgb(73, 73, 179);
     color: #ffffff;
     border-bottom-right-radius: 5px;
 }
